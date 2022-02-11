@@ -3,7 +3,7 @@
 
 ## 使用说明
 - 安装Python3
-- 配置adb环境变量
+- 配置adb环境变量（Mac环境配置）：
 ```shell
 # 参考配置
 # Android-platform-tools（Android Studio SDK 安装目录自带）
